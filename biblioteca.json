@@ -1,0 +1,27 @@
+{
+  "libros": [
+    {
+      "isbn": "2132",
+      "titulo": "Calculo 2",
+      "autor": "Baldor",
+      "disponible": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id_usuario": "12324",
+      "nombre": "Carlos",
+      "email": "cmoreno@gmail.com",
+      "activo": true
+    }
+  ],
+  "prestamos": [
+    {
+      "id_prestamo": "P-20251012222125",
+      "isbn_libro": "2132",
+      "id_usuario": "12324",
+      "fecha_prestamo": "2025-10-12T22:21:25.681838",
+      "fecha_devolucion": null
+    }
+  ]
+}
