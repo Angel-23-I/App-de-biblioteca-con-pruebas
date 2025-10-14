@@ -10,8 +10,8 @@
   "usuarios": [
     {
       "id_usuario": "12324",
-      "nombre": "Carlos",
-      "email": "cmoreno@gmail.com",
+      "nombre": "Miguel",
+      "email": "mig@gmail.com",
       "activo": true
     }
   ],

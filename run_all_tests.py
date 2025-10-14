@@ -1,4 +1,3 @@
-"""Script para ejecutar todos los niveles de pruebas"""
 import unittest
 import sys
 import os
